@@ -1,0 +1,15 @@
+=> [[32m#<ProjectBacker:0x0000556bb8cbe8e0[0m
+  @backer[32m=[0m[32m#<Backer:0x0000556bb8cbe908[0m @name[32m=[0m[31m[1;31m"[0m[31mMeryl[1;31m"[0m[31m[0m[32m>[0m,
+  @project[32m=[0m[32m#<Project:0x0000556bb8cbe980[0m @title[32m=[0m[31m[1;31m"[0m[31mKaraoke[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<ProjectBacker:0x0000556bb8cbe8b8[0m
+  @backer[32m=[0m[32m#<Backer:0x0000556bb8cbe958[0m @name[32m=[0m[31m[1;31m"[0m[31mSteven[1;31m"[0m[31m[0m[32m>[0m,
+  @project[32m=[0m[32m#<Project:0x0000556bb8cbe980[0m @title[32m=[0m[31m[1;31m"[0m[31mKaraoke[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<ProjectBacker:0x0000556bb8cbe890[0m
+  @backer[32m=[0m[32m#<Backer:0x0000556bb8cbe958[0m @name[32m=[0m[31m[1;31m"[0m[31mSteven[1;31m"[0m[31m[0m[32m>[0m,
+  @project[32m=[0m[32m#<Project:0x0000556bb8cbe9a8[0m @title[32m=[0m[31m[1;31m"[0m[31mMagic The Gathering Thing[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<ProjectBacker:0x0000556bb8cbe818[0m
+  @backer[32m=[0m[32m#<Backer:0x0000556bb8cbe930[0m @name[32m=[0m[31m[1;31m"[0m[31mSpencer[1;31m"[0m[31m[0m[32m>[0m,
+  @project[32m=[0m[32m#<Project:0x0000556bb8cbe9f8[0m @title[32m=[0m[31m[1;31m"[0m[31mRuby, Ruby, and More Ruby[1;31m"[0m[31m[0m[32m>[0m[32m>[0m,
+ [32m#<ProjectBacker:0x0000556bb8cbe7c8[0m
+  @backer[32m=[0m[32m#<Backer:0x0000556bb8cbe908[0m @name[32m=[0m[31m[1;31m"[0m[31mMeryl[1;31m"[0m[31m[0m[32m>[0m,
+  @project[32m=[0m[32m#<Project:0x0000556bb8cbe9f8[0m @title[32m=[0m[31m[1;31m"[0m[31mRuby, Ruby, and More Ruby[1;31m"[0m[31m[0m[32m>[0m[32m>[0m]
